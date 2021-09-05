@@ -1,9 +1,10 @@
-name = "app"
+name = "bcrypt"
 type = "javascript"
 zone_id = ""
-account_id = ""
+account_id = "d91ee4292020ac348fe3d5e64a93d6ad"
 route = ""
 workers_dev = true
+usage_model = "unbound"
 
 [build]
 command = "npm install && npm run build"
